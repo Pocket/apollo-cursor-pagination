@@ -7,7 +7,7 @@ Forked from: [FleekHQ/apollo-cursor-pagination](https://github.com/FleekHQ/apoll
 
 ## Installation
 
-`yarn add apollo-cursor-pagination`
+`npm install @pocket-tools/apollo-cursor-pagination`
 
 ## Usage
 
