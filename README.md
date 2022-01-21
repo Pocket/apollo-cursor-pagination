@@ -147,12 +147,12 @@ Do not publish using yarn, as it doesn't publishes all dependencies. Use `npm pu
 
 ### Running the test suite
 
-1- `yarn link`
+1- `npm link`
 
 2- `cd tests/test-app`
 
-3- `yarn link apollo-cursor-pagination`
+3- `npm link @pocket-tools/apollo-cursor-pagination`
 
-2- `yarn install`
+2- `npm install`
 
-3- `yarn test`
+3- `npm test`
